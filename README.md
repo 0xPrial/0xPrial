@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**0xPrial/0xPrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://0xPrial.com">
+    <img src="https://img.shields.io/website?label=0xPrial.com&style=for-the-badge&url=https://0xPrial.com" />
+  </a>
+  <a href="https://twitter.com/0xPrial">
+    <img src="https://img.shields.io/twitter/follow/0xPrial?label=Twitter&color=00acee&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/0xPrial">
+    <img src="https://img.shields.io/github/followers/0xPrial?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://www.youtube.com/0xPrial">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCaFDPNZiwrzHjaV3rpyP64g?color=FF0000&label=Youtube&logo=Youtube&style=for-the-badge" />
+  </a>
+</p>
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=0xPrial&show_icons=true&theme=tokyonight" /></h4>
