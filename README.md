@@ -8,7 +8,7 @@
   <a href="https://github.com/0xPrial" target="_blank">
     <img src="https://img.shields.io/github/followers/0xPrial?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://www.youtube.com/0xPrial" target="_blank">
+  <a href="https://youtube.com/0xPrial?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCaFDPNZiwrzHjaV3rpyP64g?color=FF0000&label=Youtube&logo=Youtube&style=for-the-badge" />
   </a>
 </p>
